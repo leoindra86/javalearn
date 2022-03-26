@@ -1,0 +1,6 @@
+hello, this is buffer reader.
+buffer-reader-this is 2nd line---
+buffer-reader-this is 3rd line---
+buffer-reader-this is 4th line---
+buffer-reader-this is 5th line---
+buffer-reader-this is 6th line---
