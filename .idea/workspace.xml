@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e88c87e9-346c-4772-bba0-366b322eb348" name="Changes" comment="commit" />
+    <list default="true" id="e88c87e9-346c-4772-bba0-366b322eb348" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +85,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Streams">
+  <component name="RunManager" selected="Application.ArrowKeys">
     <configuration name="ArrowKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gui_projects.ArrowKeys" />
       <module name="javalearn" />
@@ -200,6 +202,8 @@
       <workItem from="1645478624444" duration="25000" />
       <workItem from="1646850437317" duration="8000" />
       <workItem from="1648314366955" duration="269000" />
+      <workItem from="1648315266140" duration="22000" />
+      <workItem from="1648315301247" duration="152000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1648314488545</created>
@@ -224,10 +228,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InterfaceExample.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
